@@ -2,3 +2,10 @@ vortex(1.0.0)
 Jump to directories.
 https://raw.githubusercontent.com/ergonomica/package-vortex/master/vortex.py
 
+macros
+Macros.
+https://raw.githubusercontent.com/ergonomica/package-macros/master/macros.py
+
+status
+System status commands for Ergonomica.
+https://raw.githubusercontent.com/ergonomica/package-status/master/status.py
