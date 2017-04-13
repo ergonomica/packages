@@ -9,3 +9,7 @@ https://raw.githubusercontent.com/ergonomica/package-macros/master/macros.py
 status.py(1.0.0)
 System status commands for Ergonomica.
 https://raw.githubusercontent.com/ergonomica/package-status/master/status.py
+
+crypto.py(1.0.0)
+Hashing and encryption algorithms.
+https://raw.githubusercontent.com/ergonomica/package-crypto/master/status.py
