@@ -14,6 +14,6 @@ crypto.py(1.0.0)
 Hashing and encryption algorithms.
 https://raw.githubusercontent.com/ergonomica/package-crypto/master/crypto.py
 
-grapher.py(1.0.0)
+grapher.py(2.0.0)
 Graph numbers in the terminal.
 https://raw.githubusercontent.com/ergonomica/package-grapher/master/graph.py
