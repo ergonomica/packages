@@ -17,3 +17,7 @@ https://raw.githubusercontent.com/ergonomica/package-crypto/master/crypto.py
 grapher.py(2.0.0)
 Graph numbers in the terminal.
 https://raw.githubusercontent.com/ergonomica/package-grapher/master/graph.py
+
+gen_docs.py(1.0.0)
+Generate Ergonomica documentation in Ergonomica.
+https://raw.githubusercontent.com/ergonomica/package-gen_docs/master/gen_docs.py
