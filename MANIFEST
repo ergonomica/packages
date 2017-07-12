@@ -14,9 +14,9 @@ hash(1.0.0)
 Hashing and encryption algorithms.
 https://raw.githubusercontent.com/ergonomica/package-hash/master/hash.py
 
-grapher(2.0.0)
+graph(2.0.0)
 Graph numbers in the terminal.
-https://raw.githubusercontent.com/ergonomica/package-grapher/master/graph.py
+https://raw.githubusercontent.com/ergonomica/package-graph/master/graph.py
 
 gen_docs(1.0.0)
 Generate Ergonomica documentation in Ergonomica.
