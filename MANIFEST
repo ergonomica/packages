@@ -9,7 +9,3 @@ https://raw.githubusercontent.com/ergonomica/package-vortex/master/vortex.py
 hash(1.0.0)
 Hashing and encryption algorithms.
 https://raw.githubusercontent.com/ergonomica/package-hash/master/hash.py
-
-graph(2.0.0)
-Graph numbers in the terminal.
-https://raw.githubusercontent.com/ergonomica/package-graph/master/graph.py
