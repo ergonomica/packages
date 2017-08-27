@@ -1,0 +1,16 @@
+[submodule "package-remote"]
+	path = package-remote
+	url = https://github.com/ergonomica/package-remote.git
+	branch = master
+[submodule "package-calc"]
+	path = package-calc
+	url = https://github.com/ergonomica/package-calc.git
+	branch = master
+[submodule "package-hash"]
+	path = package-hash
+	url = https://github.com/ergonomica/package-hash.git
+	branch = master
+[submodule "package-vortex"]
+	path = package-vortex
+	url = https://github.com/ergonomica/package-vortex.git
+	branch = master
